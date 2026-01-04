@@ -1,5 +1,5 @@
 // 缩进相关函数
-#let indent() = {
+#let indent_() = {
   box(width: 2em)
 }
 

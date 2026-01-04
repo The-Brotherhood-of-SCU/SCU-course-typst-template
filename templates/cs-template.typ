@@ -1,4 +1,4 @@
-#import "@preview/lovelace:0.2.0": *
+#import "@preview/lovelace:0.3.0": *
 // 使用伪粗体修复中文粗体不能正确显示的问题
 #import "@preview/cuti:0.3.0": show-cn-fakebold
 
@@ -11,7 +11,7 @@
 #import "../pages/paper-cover.typ": paper_cover
 #import "../pages/paper-pages.typ": *
 
-#import "@preview/tablem:0.2.0": three-line-table
+#import "@preview/tablem:0.3.0": three-line-table
 #import "../utilities/indent-funs.typ": *
 #import "../utilities/bib-cite.typ": *
 #import "../utilities/set-heading.typ": _set_heading
